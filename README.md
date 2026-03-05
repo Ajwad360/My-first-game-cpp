@@ -1,4 +1,4 @@
-<img width="1789" height="81" alt="image" src="https://github.com/user-attachments/assets/f2844190-b6fe-46a7-85a7-2a65d2383351" /><img width="1344" height="81" alt="image" src="https://github.com/user-attachments/assets/2b2b815b-be6e-47d8-bb23-abac1b49daf4" /># My-first-game-cpp
+# My-first-game-cpp
 
 # A type of movement based game I made in c++ where you have to finish a parkour and then fight the boss 
 
