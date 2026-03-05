@@ -12,11 +12,11 @@
 # How to run code
 - Option 1 (g++ complier required):
   
--  1. Clone the repository:
+1. Clone the repository:
    git clone <your-repo-link>
 
 2. Navigate to the project folder:
-   cd your-repo-name
+   cd My-first-game-cpp
 
 3. Compile the code:
    g++ src/mygame.cpp -o game
