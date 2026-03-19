@@ -10,7 +10,7 @@
 - Interactive menu to start game, exit and select difficulty
 
 ## How to run code
-- Option 1 (g++ complier required):
+Option 1 (g++ complier required):
   
 - 1. Clone the repository:
    git clone https://github.com/Ajwad360/My-first-game-cpp.git
@@ -24,7 +24,7 @@
 - 4. Run the program:
    ./game
 
-- Option 2 (Windows only):
+Option 2 (Windows only):
 
 - 1. Go to "Releases" section of this repository
 
